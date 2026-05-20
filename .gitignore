@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Log files
+*.log
+
+# Local editor settings (not intended for shared repo)
+.vscode/
+.idea/
+
+# Local databases, caches or state files if run inside the directory
+*.mdb
+*.mdb-lock
+*~
+.bak.*
+*.bak
